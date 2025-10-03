@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy watching NFL games
 -->
+- 🔭 I’m currently working on my skills with python
+- 🌱 I’m currently learning how to sort through data using pandas
+- 👯 I’m looking to collaborate on NFL Big Data Bowl
+- 🤔 I’m looking for help with getting more experience in hackathons
+- 💬 Ask me about anything
+- 📫 How to reach me: carterjeong@gmail.com or linkedin.com/in/carter-jeong-755b93242/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy watching NFL games
